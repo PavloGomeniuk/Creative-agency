@@ -1,0 +1,152 @@
+.input {
+	width: 263px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+	padding-left: 20px;
+}
+
+.input.object {
+	width: 578px;
+	margin: 31px 0;
+}
+
+.input.object.message {
+	height: 200px;
+}
+
+.input::placeholder {
+	color: #cccccc;
+}
+
+.flex.margin {
+	margin: 150px 0 ;
+}
+
+.input.name {
+	margin-right: 29px;
+}
+
+.footer-links.margin {
+	justify-content: flex-start;
+	margin-top: 30px;
+}
+
+.text-contacts {
+	color: #999999;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.text-contacts.mail {
+	font-weight: 700;
+}
+
+.text-contacts.about {
+	color: #60606e;
+}
+
+.text-contacts.about.bold {
+	font-family: "Open Sans - Extrabol"
+}
+
+.blue-block.about {
+	top: 41px;
+}
+
+.history.about {
+	left: 11px;
+}
+
+.flex.space.about {
+	margin: 150px 0;
+}
+
+.width-about-section-one {
+	width: 45%;
+}
+
+.flex.about.wrap {
+	flex-wrap: wrap;
+}
+
+.width-about-section-two {
+	width: 30%;
+}
+
+.about-img-float {
+	float: left;
+	margin-right: 33px; 
+}
+
+.about-vertical {
+	margin: 0;
+	padding: 8px 0 13px 0; 
+}
+
+.flex.space.block {
+	background-color: #efeff0;
+	padding: 50px 30px;
+	margin: 10px 0;
+	width: 93%;
+}
+
+.get-start.about {
+	margin: 0;
+}
+
+.text-contacts.about.two {
+	font-size: 18px;
+	font-style: italic;
+	margin: 15px 0;
+}
+
+.flex.img-dream {
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	width: 1134px;
+	margin-bottom: 31px;
+}
+
+.flex.space.width-block {
+	width: 1134px;
+}
+
+.block-select {
+	width: 22px;
+	height: 5px;
+	background-color: #60606e;
+}
+
+.block-select.other {
+	width: 41px;
+	background-color: #7beec7;
+}
+
+.flex.margin-for-block {
+	margin-top: 40px;
+	justify-content: space-between;
+	width: 123px;
+}
+
+.center-text.down-block {
+	width: 536px;
+}
+
+.text-contacts.text-align-center {
+	text-align: center;
+}
+
+.flex.space.img {
+	width: 599px;
+	margin-bottom: 30px;
+}
+
+.flex.margins-down-block {
+	margin: 195px 0;
+}

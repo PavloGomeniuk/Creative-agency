@@ -1,0 +1,147 @@
+.section-blog {
+	background-color: rgba(186, 186, 186, 0.65);
+	height: 100vh;
+}
+
+.button {
+	border: 0;
+	background-color: white;
+	padding: 8px 15px;
+}
+
+.button.october {
+	background-color: #7beec7;
+	padding: 10px 23px;
+	color: white;
+	font-size: 14px;
+	text-transform: uppercase;
+}
+
+.blog-margin {
+	margin: 0px 0 20px 0;
+}
+
+.a-reading {
+	color: #60606e;
+	font-family: Montserrat;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 24px;
+	text-transform: uppercase;
+
+}
+
+.width-about-section-one.blog-left {
+	width: 800px;
+}
+
+.width-about-section-one.blog-right {
+	width: 262px;
+}
+
+.input-blog {
+	padding-left: 15px;
+	background: url(../image/12.png) no-repeat;
+	background-position: 93% 50%;
+	height: 40px;
+	background-color: #cdcdcd;
+	opacity: 0.5;
+	font-size: 12px;
+	font-weight: 700;
+	text-transform: uppercase;
+	border: 0;
+	width: 260px;
+}
+
+.blog-h5 {
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.btn-blog {
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+	border: 0;
+	background-color: white;
+	padding-left: 18px;
+}
+
+.btn-blog.no-margin {
+	margin: 0;
+	color: #999999;
+}
+
+.btn-blog.color {
+	color: #999999;
+}
+
+.line-btn {
+	height: 2px;
+	width: 87px;
+	border: 0;
+	background-color: grey;
+}
+
+.line-btn.other {
+	background-color: #7beec7;
+}
+
+.float-img {
+	float: left;
+	margin-right: 10px;
+}
+
+.text-under-img {
+	color: #9a9a9a;
+	font-family: "Open Sans";
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 18px;
+	margin: 0;
+}
+
+.blog-h5.h6 {
+	margin: 40px 0 0 0px;
+}
+
+.blog-h5.margin {
+	margin-top: 50px;
+}
+
+.text-contacts.blog {
+	color: #60606e;
+}
+
+.flex.blog-text {
+	justify-content: space-between;
+	padding: 0 10px;
+}
+
+.grey-line {
+	width: 262px;
+	height: 1px;
+	background-color: grey;
+}
+
+.btn-css {
+	background-color: #e5e5e5;
+	border: 0;
+	padding: 0px 15px;
+	color: #999999;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+}
+
+.flex.css {
+	justify-content: space-between;
+	margin: 7px 0;
+}
+
+.btn-css.html {
+	margin-right: 7px;
+}

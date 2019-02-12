@@ -1,0 +1,59 @@
+.input {
+	width: 263px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+	padding-left: 20px;
+}
+
+.input.object {
+	width: 578px;
+	margin: 31px 0;
+}
+
+.input.object.message {
+	height: 200px;
+	color: #cccccc;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+
+}
+
+.input::placeholder {
+	color: #cccccc;
+	font-family: Montserrat;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 48px;
+	text-transform: uppercase;
+}
+
+.flex.margin {
+	margin: 150px 0 ;
+}
+
+.input.name {
+	margin-right: 29px;
+}
+
+.footer-links.margin {
+	justify-content: flex-start;
+	margin-top: 30px;
+}
+
+.text-contacts {
+	color: #999999;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.text-contacts.mail {
+	font-weight: 700;
+}
